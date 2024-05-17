@@ -1,0 +1,11 @@
+    @Test
+    void deberiaRegistrarseUnOdontologoYObtenerUnaMatriculaEnH2(){
+
+        OdontologoService = new odontologoService(new OdontologoDaoH2());
+        Odontologo odontologo = new Odontologo("Nombre","Apellido",);
+
+        Odontologo OdontologoRegistrado = OdontologoService.registrarOdontologo(odontologo);
+
+        assertNotNull(OdontologoRegistrado.getMatricula());
+
+    }

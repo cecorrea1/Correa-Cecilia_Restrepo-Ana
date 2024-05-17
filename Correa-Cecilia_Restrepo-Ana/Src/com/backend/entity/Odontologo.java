@@ -36,4 +36,9 @@ public class Odontologo {
      public void setMatricula(int matricula) {
           this.matricula = matricula;
      }
+
+     @Override
+     public String toString() {
+          return "Nombre: " + nombre + " - Apellido: " + apellido + " - Matricula: " + matricula;
+     }
 }

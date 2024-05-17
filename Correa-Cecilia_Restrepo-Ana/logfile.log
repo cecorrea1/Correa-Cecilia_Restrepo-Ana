@@ -1,16 +1,3 @@
-[2024-05-16 22:56:07] [ ERROR] [OdontologoDaoH2:43] Tabla "ODONTOLOGO" no encontrada
-Table "ODONTOLOGO" not found; SQL statement:
-INSERT INTO ODONTOLOGO (NOMBRE, APELLIDO, MATRICULA) VALUES (?, ?, ?) [42102-224]
-[2024-05-16 22:56:07] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
-[2024-05-16 22:56:07] [ ERROR] [OdontologoDaoH2:49] Tabla "ODONTOLOGO" no encontrada
-Table "ODONTOLOGO" not found; SQL statement:
-INSERT INTO ODONTOLOGO (NOMBRE, APELLIDO, MATRICULA) VALUES (?, ?, ?) [42102-224]
-[2024-05-16 22:57:58] [ ERROR] [OdontologoDaoH2:43] Tabla "ODONTOLOGO" no encontrada
-Table "ODONTOLOGO" not found; SQL statement:
-INSERT INTO ODONTOLOGO (NOMBRE, APELLIDO, MATRICULA) VALUES (?, ?, ?) [42102-224]
-[2024-05-16 22:57:59] [ INFO ] [OdontologoDaoH2:48] Tuvimos un problema
-[2024-05-16 22:57:59] [ ERROR] [OdontologoDaoH2:49] Tabla "ODONTOLOGO" no encontrada
-Table "ODONTOLOGO" not found; SQL statement:
-INSERT INTO ODONTOLOGO (NOMBRE, APELLIDO, MATRICULA) VALUES (?, ?, ?) [42102-224]
-[2024-05-16 23:02:48] [ INFO ] [OdontologoDaoH2:39] Se ha registrado el Odontologo: com.backend.entity.Odontologo@4b8729ff
-[2024-05-16 23:04:33] [ INFO ] [OdontologoDaoH2:97] Listado de todos los Odontólogos: [com.backend.entity.Odontologo@3f1d2e23, com.backend.entity.Odontologo@536dbea0, com.backend.entity.Odontologo@47c81abf, com.backend.entity.Odontologo@776a6d9b]
+[2024-05-17 15:25:41] [ INFO ] [OdontologoDaoH2:39] Se ha registrado el Odontologo: Nombre: Nombre - Apellido: Apellido - Matricula: 5
+[2024-05-17 15:25:55] [ INFO ] [OdontologoDaoH2:97] Listado de todos los Odontólogos: [Nombre: Nombre - Apellido: Apellido - Matricula: 0, Nombre: Ceci - Apellido: Correa - Matricula: 1, Nombre: Ana - Apellido: Restrepo - Matricula: 2, Nombre: Juan - Apellido: Perez - Matricula: 3, Nombre: Nombre - Apellido: Apellido - Matricula: 5]
+[2024-05-17 15:30:05] [ INFO ] [OdontologoDaoH2:97] Listado de todos los Odontólogos: [Nombre: Nombre - Apellido: Apellido - Matricula: 0, Nombre: Ceci - Apellido: Correa - Matricula: 1, Nombre: Ana - Apellido: Restrepo - Matricula: 2, Nombre: Juan - Apellido: Perez - Matricula: 3, Nombre: Nombre - Apellido: Apellido - Matricula: 5]
